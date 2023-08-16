@@ -1,0 +1,14 @@
+C:\Users\dinor\site\Criptografia\bin\Debug\net7.0\Criptografia.exe
+C:\Users\dinor\site\Criptografia\bin\Debug\net7.0\Criptografia.deps.json
+C:\Users\dinor\site\Criptografia\bin\Debug\net7.0\Criptografia.runtimeconfig.json
+C:\Users\dinor\site\Criptografia\bin\Debug\net7.0\Criptografia.dll
+C:\Users\dinor\site\Criptografia\bin\Debug\net7.0\Criptografia.pdb
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.AssemblyInfo.cs
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.dll
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\refint\Criptografia.dll
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.pdb
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\Criptografia.genruntimeconfig.cache
+C:\Users\dinor\site\Criptografia\obj\Debug\net7.0\ref\Criptografia.dll
